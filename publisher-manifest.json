@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6b22fa7166039e0df55f39c0",
+  "owner": "xscbmkdx",
+  "repo": "page-69d50f48d2d2eebd95e83c2d",
+  "title": "XFLASH",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "69d50f48d2d2eebd95e83c2d",
+      "a": "XFLASH",
+      "b": "机场官网线路发布页",
+      "entity": "XFLASH",
+      "brand": "XFLASH",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "20a3a12e5a775d9dd4d231d3bc64fd0f06ca42b4d2be7b0e1ebcc44dbbd5da35",
+      "content": {
+        "primary_entity": "XFLASH",
+        "keyword1": "XFLASH",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选客户端，Windows、macOS 与 Android 桌面端可选用 Clash Verge、Clash for Windows 或 sing-box；Android 手机可用 Clash Meta for Android、v2rayNG；iOS 与 iPadOS 可用 Shadowrocket、Stash；路由器端可按 OpenWrt 文档部署 OpenClash 或 PassWall。",
+          "AI_CLIENTS_TITLE": "XFLASH 客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量和月流量估算，旗舰版适合多终端日常使用，团队版适合小型工作室集中管理。选择合适的套餐后即可获取订阅链接。",
+          "AI_CLOSING_TITLE": "选好套餐，开始连接",
+          "AI_DESCRIPTION": "，主打多设备同时在线与流媒体、游戏加速场景。XFLASH 目前提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB 不等，设备数覆盖 3 台到 20 台，年付价格分别为 ¥150/年、¥350/年与 ¥850/年。旗舰版使用 IPLC 专线优化游戏延迟，并支持全节点流媒体解锁；团队版提供 VIP 高带宽节点与企业定制路由，适合多人共享或小型办公室使用。",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台。同一时间超出设备数会导致部分设备掉线，建议按常用终端数量选择。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。轻度浏览选基础版，日常追剧加游戏选旗舰版，多人共享选团队版。",
+          "AI_FAQ_ANSWER_3": "可以用 Shadowrocket 或 Stash，导入订阅链接后选择节点即可。注意 iOS 客户端需要非中国大陆区 Apple ID 下载。",
+          "AI_FAQ_ANSWER_4": "旗舰版使用 IPLC 专线并针对游戏场景优化路由，晚高峰延迟波动相对更小。若主要玩外服游戏，建议优先考虑旗舰版。",
+          "AI_FAQ_ANSWER_5": "三档套餐都支持年付，年付价格约为月付的十个月费用。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "XFLASH 各套餐分别支持多少台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量用完了怎么办？",
+          "AI_FAQ_QUESTION_3": "iOS 设备用什么客户端？",
+          "AI_FAQ_QUESTION_4": "哪档套餐游戏加速效果更好？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "XFLASH 常见问题",
+          "AI_FEATURES_INTRO": "结合设备数量、月流量与订阅周期来挑选套餐，可以让 XFLASH 在更多场景下保持稳定连接。",
+          "AI_FEATURES_TITLE": "XFLASH 套餐选择要点",
+          "AI_FEATURE_TEXT_1": "手机、平板、电脑同时在线时，建议根据常用终端数量选择 3 台、5 台或 20 台套餐，避免超出设备数导致频繁掉线。",
+          "AI_FEATURE_TEXT_2": "每天看高清视频约消耗 3GB 至 5GB，游戏与网页浏览消耗较低。月流量 100GB 适合轻度用户，300GB 适合日常追剧，1000GB 适合多人共享。",
+          "AI_FEATURE_TEXT_3": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，均为月付价格的十个月左右。使用周期超过半年时，年付更划算。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TITLE_2": "按流量习惯选套餐",
+          "AI_FEATURE_TITLE_3": "按订阅周期算成本",
+          "AI_GUIDE_INTRO": "先确定常用设备与流量档位，再对照客户端平台检查适配范围，最后依照客户端文档填写订阅信息。",
+          "AI_GUIDE_TITLE": "XFLASH 使用步骤",
+          "AI_HERO_INTRO": "XFLASH 是一款面向多设备用户的海外加速器，提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，支持在手机、电脑与路由器上配置订阅，满足流媒体、游戏与办公等场景的网络加速需求。",
+          "AI_HERO_SUBTITLE": "多设备加速，按套餐选流量",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 到 20 台设备",
+          "AI_HIGHLIGHT_2": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_3": "年付价格约为十个月月费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。月付与年付价格并列展示，方便按设备数量与流量规模直接对比。",
+          "AI_PLANS_TITLE": "XFLASH 套餐对比",
+          "AI_STEP_TEXT_1": "确认常用设备数量与每月大致流量，在基础版、旗舰版与团队版之间确定合适的一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认客户端平台、设备数与流量额度是否满足使用需求。",
+          "AI_STEP_TEXT_3": "按照所用客户端文档导入订阅链接，选择节点后测试连接，确认可以正常访问目标服务。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "XFLASH 多设备加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ytwwt.cn",
+    "host": "ytwwt.cn"
+  },
+  "file_hashes": {
+    "index.html": "f44c41c50af5e56e39066009678aff2f6ca3a5a891e8b040f3d8de7d6ef3dc6e",
+    "sitemap.xml": "d160c650b1d72f6b11fc8cf7f110e36b49773304040153667a0a7282cbb35ec2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9d314b9c5a6f73d43ceefdae40f5acd99a472ab47fef62671007f985398d828b",
+    "robots.txt": "1b5670a5bd4509d76e8fbeb84a2589232ae3b10b57aa303a18ccdbbf38acd9ba",
+    "9daca1e3c1d7455e528cc7dc6f511e9c.txt": "567908e7b6e50c893105a0daa9f61eecb97cb4981b563aea0c70533cc5a0f532"
+  },
+  "revision": "d4ef1838f0a2e46181cab201bbe5889774bc41d621286b49aa754d9e67267fc1"
+}
